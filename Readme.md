@@ -75,3 +75,10 @@ Script used to generate statistical summary tables and numerical results present
 
 ### `TestKruskalWallis-cambios.py`
 Script used to perform Kruskal–Wallis statistical tests and evaluate significant differences between blooming phases.
+
+
+## License
+
+- Source code: MIT License
+
+- Dataset: Creative Commons Attribution 4.0 International (CC BY 4.0)
